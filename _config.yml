@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Jiin Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to this Blog!"
-  location         : "Kyungpook National University"
+  bio              : "MS students at Kyungpook National Universirty(KNU) "
+  location         : "Kyungpook National University, Daegu, Korea"
   email            :
   links:
     - label: "Email"
