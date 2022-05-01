@@ -20,7 +20,7 @@ title                    : "Jiin Choi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jiin Choi"
-description              : "Think Positively"
+description              : "Jiin's Blog"
 url                      : "https://jiin04018.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
