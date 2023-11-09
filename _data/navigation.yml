@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Category"
+    url: /categories/
   - title: "Personal Info"
     url: https://jiin04018.github.io/Curriculum-Vitae/Curriculum_Vitae.pdf
   # - title: "About"
