@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Jiin Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MS students at Kyungpook National University(KNU) "
-  location         : "Daegu, Korea"
-  email            :
+  bio              : "MS students at Kyungpook National University (KNU)"
+  location         : "South Korea"
+  email            : "djm04018@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
